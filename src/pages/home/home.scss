@@ -1,0 +1,13 @@
+.currency-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  row-gap: 8px;
+  padding: 16px;
+}
+
+ion-item {
+  height: max-content;
+}
